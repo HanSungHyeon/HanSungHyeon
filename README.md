@@ -1,4 +1,5 @@
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSungHyeon&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdgus5349)](https://solved.ac/tjdgus5349)
 
 
 <!--
