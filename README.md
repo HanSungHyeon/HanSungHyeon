@@ -1,5 +1,5 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdgus5349)](https://solved.ac/tjdgus5349)
 
 <div align=center>
 	
