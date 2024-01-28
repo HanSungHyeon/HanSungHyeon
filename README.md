@@ -1,11 +1,11 @@
 
 ## Project
 |프로젝트명|역할|설명|수상|
-|------|---|---|---|
-|도란도란|테스트2|테스트3|테스트3|
-|코코페이|테스트2|테스트3|테스트3|
-|Oz|테스트2|테스트3|테스트3|
-|Where Is My Home|테스트2|테스트3|테스트3|
+|:------:|---|---|---|
+|[도란도란](https://github.com/HanSungHyeon/dorandoran)|백엔드|2023.10.09 ~ 2023.11.17|자율 프로젝트 우수상|
+|[코코페이](https://github.com/HanSungHyeon/cocopay)|백엔드|2023.08.21 ~ 2023.10.06|특화 프로젝트 최우수상|
+|[Oz](https://github.com/HanSungHyeon/oz)|백엔드|2023.07.04 ~ 20203.08.18|테스트3|
+|[Where Is My Home](https://github.com/HanSungHyeon/WhereIsMyHome)|백엔드|2023.05.03 ~ 2023.05.25|관통 프로젝트 우수상|
 
 ## Education
 
@@ -17,12 +17,12 @@
 ## Algorithm
 <div align>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdgus5349)](https://solved.ac/tjdgus5349)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdgus5349)]((https://solved).ac/tjdgus5349)
 
 </div>
 <div align=center>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HanSungHyeon)](https://hits.seeyoufarm.com) 
+  [![Hits]((https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HanSungHyeon)](https://hits.s)eeyoufarm.com) 
 	
  </div>
 <!--
