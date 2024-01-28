@@ -19,10 +19,11 @@
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdgus5349)]((https://solved).ac/tjdgus5349)
 
+
 </div>
 <div align=center>
 
-  [![Hits]((https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HanSungHyeon)](https://hits.s)eeyoufarm.com) 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HanSungHyeon)](https://hits.seeyoufarm.com) 
 	
  </div>
 <!--
