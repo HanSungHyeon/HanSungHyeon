@@ -19,7 +19,7 @@
 ## Algorithm
 <div align>
 	
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdgus5349)](https://solved.ac/profile/tjdgus5349)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdgus5349)](https://solved.ac/tjdgus5349/)
 
 
 </div>
