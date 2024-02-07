@@ -15,10 +15,11 @@
 |삼성 청년 SW 아카데미 9th|2023.01 ~ 2023.12|
 |코드스테이츠 백엔드 41th |2022.08 ~ 2023.01|
 
+
 ## Algorithm
 <div align>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdgus5349)](https://solved.ac/tjdgus5349)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdgus5349)](https://solved.ac/profile/tjdgus5349)
 
 
 </div>
