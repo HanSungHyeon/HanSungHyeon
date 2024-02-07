@@ -18,7 +18,7 @@
 ## Algorithm
 <div align>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdgus5349)]((https://solved).ac/tjdgus5349)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdgus5349)](https://solved.ac/tjdgus5349)
 
 
 </div>
