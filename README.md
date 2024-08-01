@@ -1,3 +1,17 @@
+## Contact
+<div>
+  <a href="https://han5ung.tistory.com/"
+    ><img
+      src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://suyeonsu.github.io"
+  /></a>
+  <a href="mailto:gksroenro@gmail.com"
+    ><img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=gksroenro@gmail.com"
+  /></a>
+</div>
+
+
+
 
 ## Project
 |프로젝트명|역할|기간|수상|설명|
